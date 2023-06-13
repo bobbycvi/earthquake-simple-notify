@@ -18,16 +18,18 @@ This Python script retrieves earthquake information from the USGS (United States
 ## Usage
 
 1. Clone the repository:
-```git clone https://github.com/your-username/earthquake-notifier.git```
+```git clone https://github.com/bobbycvi/earthquake-simple-notify```
 
 2. Navigate to the project directory:
-```cd earthquake-notifier```
+```cd earthquake-simple-notify```
 
 3. Install the required libraries:
 ```pip install -r requirements.txt```
 
 4. Run the script:
-```python earthquake_notifier.py```
+```python earthquake-notify-world.py```
+	For Romania people:
+	```python earthquake-notify-romania.py``` 
 
 
 The script will retrieve earthquake data and display notifications based on your specified criteria.
